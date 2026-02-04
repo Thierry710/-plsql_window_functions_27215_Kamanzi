@@ -76,7 +76,6 @@ Marketing should focus on high-performing regions and loyal customers.
 ## References
 - PostgreSQL Documentation
 - W3Schools SQL Tutorial
-- join_full.png.png
 
 ---
 
