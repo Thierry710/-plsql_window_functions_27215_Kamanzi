@@ -1,7 +1,7 @@
 # SQL JOINs & Window Functions Project
 
 ## Student Information
-Name: Kamanzi Thierry  
+Name: Kamanzi Ishimwe Thierry  
 id: 27215 
 
 ---
