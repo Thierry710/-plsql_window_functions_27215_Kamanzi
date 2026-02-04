@@ -81,9 +81,6 @@ Marketing should focus on high-performing regions and loyal customers.
 
 ## Integrity Statement
 “All sources were properly cited. Implementations and analysis represent original work.”
-=======
-# -plsql_window_functions_27215_Kamanzi
-=======
 # plsql_window_functions_27215_Kamanzi
 
 
