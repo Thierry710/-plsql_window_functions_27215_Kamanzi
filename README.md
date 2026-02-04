@@ -2,7 +2,7 @@
 
 ## Student Information
 Name: Kamanzi Thierry  
-Course: INSY 8311  
+id: 27215 
 
 ---
 
