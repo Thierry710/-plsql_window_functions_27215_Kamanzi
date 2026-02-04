@@ -83,5 +83,7 @@ Marketing should focus on high-performing regions and loyal customers.
 “All sources were properly cited. Implementations and analysis represent original work.”
 =======
 # -plsql_window_functions_27215_Kamanzi
-INSY 8311 Assignment I - SQL JOINs and Window Functions
+=======
+# plsql_window_functions_27215_Kamanzi
+
 
