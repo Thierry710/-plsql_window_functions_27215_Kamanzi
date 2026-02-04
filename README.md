@@ -31,7 +31,7 @@ Finds customers without sales.
 Shows products with no sales.
 
 ### FULL JOIN
-![FULL](screenshots/join_full.png)
+![FULL](join_full.png.png)
 Displays all customers and products.
 
 ### SELF JOIN
